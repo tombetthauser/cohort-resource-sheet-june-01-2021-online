@@ -16,7 +16,9 @@ Progress Tracker: [click here](progress.appacademy.io/)
 
 Student Code of Conduct: [click here](https://open.appacademy.io/learn/student-handbook/code-of-conduct/code-of-conduct)
 
-Student Introduction Google Sheet: [click here](https://docs.google.com/spreadsheets/d/1g3CMPhuKuyqLaE3YmUWOnXBwFoiHlOMw8lN-519AYCY/edit#gid=2047540154)
+Student Introduction Google Sheet: [click here](https://docs.google.com/spreadsheets/d/1g3CMPhuKuyqLaE3YmUWOnXBwFoiHlOMw8lN-519AYCY/edit#gid=2047540154) 📌
+
+(^ newly added / deferred students feel free to add yourself to this!)
 
 ***
 

@@ -30,6 +30,96 @@ Where we are and where we're going!
 
 ***
 
+## Daily Schedule
+
+Every day is different but this will be the assumed schedule each day unless otherwise announced by the TAs.
+
+8:00 am PST:
+
+* Required morning check in on Progress Tracker
+
+* Nightly report for previous day due on Progress Tracker
+
+* Morning boost exercise from Module TA's
+
+* Morning lectures begin followed by live demonstrations and Q&A sessions
+
+11:15 am PST:
+
+* Lunch break begins for 1 hour and 15 minutes
+
+* Lectures may be over or may continue after lunch
+
+12:30 ps PST:
+
+* Lunch ends and lectures may continue or project time may begin
+
+* Students are responsible for checking in on Progress Tracker
+
+* Students will work solo or be paired together for project / exercises
+
+2:45 pm PST:
+
+* Afternoon break begins for 15 minutes
+
+3:00 pm PST:
+
+* Students are responsible for checking in on Progress Tracker
+
+* Afternoon project / exercise work begins again
+
+4:00 / 4:30 pm PST:
+
+* End of Day lecture / exercise / Q&A begins
+
+5:00 pm PST:
+
+* Class ends
+
+* Students are responsible for structuring their time with nightly homework / review / practice
+
+* Students are responsible for submitting nightly reports by 8:00 am the next morning
+
+***
+
+## Weekly Schedule
+
+Every week is different but this will be the rough schedule each week unless otherwise announced by the TAs.
+
+Monday:
+
+* At the beginning of class students will take an assessment on the previous week's content
+
+* Students who do not pass the assessment will be deferred to the next cohort after meeting with a staff member
+
+* Normal daily schedule will start after the assessment ends
+
+Tuesday - Thursday:
+
+* Our normal daily schedule will introduce new curriculum material
+
+Friday:
+
+* The TA's will start to focus more on reviewing the weeks content
+
+* A practice assessment or problem set will be made available for students
+
+* A walk-through of the practice assessment will take place in the afternoon
+
+* The normal daily schedule may structure our time or there may be more open review time
+
+Saturday / Sunday:
+
+* Students should attempt the practice assessment as many times as possible (10-25 times depending on assessment length)
+
+* Students should review any of the weeks material necessary to form better understandings of concepts covered in practice assessment and learning outcomes
+
+* Students will be responsible for any homework due Monday
+
+* One or more of the module TAs may make themselves available for 1-2 hours for extra review time (this is completely up to the availability of the TAs and is not guaranteed on any given week)
+
+***
+
 ## Student Handbook Resources
 
 Guide to Stress, Tests and Time Management: [click here](https://open.appacademy.io/learn/student-handbook/code-of-conduct/guide-to-stress--tests--and-time-management)

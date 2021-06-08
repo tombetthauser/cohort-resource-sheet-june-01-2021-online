@@ -120,9 +120,17 @@ Saturday / Sunday:
 
 ***
 
-## Student Handbook Resources
+## Pair Programming Resources
 
-Guide to Stress, Tests and Time Management: [click here](https://open.appacademy.io/learn/student-handbook/code-of-conduct/guide-to-stress--tests--and-time-management)
+Benefits of Pair Programming: [click here](https://open.appacademy.io/learn/student-handbook/supplemental-resources/benefits-of-pair-programming)
+
+Pair Programming The a/A Way: [click here](https://open.appacademy.io/learn/student-handbook/supplemental-resources/pair-programming-the-a-a-way)
+
+Empathetic Communication: [click here](https://open.appacademy.io/learn/student-handbook/supplemental-resources/empathetic-communication)
+
+***
+
+## Student Handbook Resources
 
 Guide to Stress, Tests and Time Management: [click here](https://open.appacademy.io/learn/student-handbook/code-of-conduct/guide-to-stress--tests--and-time-management)
 
@@ -133,13 +141,3 @@ Debugging Basics: [click here](https://open.appacademy.io/learn/student-handbook
 Reading Documentation: [click here](https://open.appacademy.io/learn/student-handbook/code-of-conduct/reading-documentation)
 
 Asking Questions: [click here](https://open.appacademy.io/learn/student-handbook/code-of-conduct/asking-questions)
-
-***
-
-## Pair Programming Resources
-
-Benefits of Pair Programming: [click here](https://open.appacademy.io/learn/student-handbook/supplemental-resources/benefits-of-pair-programming)
-
-Pair Programming The a/A Way: [click here](https://open.appacademy.io/learn/student-handbook/supplemental-resources/pair-programming-the-a-a-way)
-
-Empathetic Communication: [click here](https://open.appacademy.io/learn/student-handbook/supplemental-resources/empathetic-communication)

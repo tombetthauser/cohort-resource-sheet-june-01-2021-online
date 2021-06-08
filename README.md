@@ -20,6 +20,12 @@ Student Introduction Google Sheet: [click here](https://docs.google.com/spreadsh
 
 ***
 
+Module 1 Resource Links:
+
+* [Module 1 Resources from Mylo](https://github.com/appacademy/Module-1-Resources)
+
+***
+
 ## Cohort Roadmap
 
 ![image](https://docs.google.com/drawings/d/e/2PACX-1vS4Wx0ihqY_VYg4UtvM2fqdugB9zx2_33oRTfGqoRLsKlZQ-46_sB43AjDaS9-Gybjy0mn1LhStlXuY/pub?w=1440&h=1080)
@@ -141,3 +147,9 @@ Debugging Basics: [click here](https://open.appacademy.io/learn/student-handbook
 Reading Documentation: [click here](https://open.appacademy.io/learn/student-handbook/code-of-conduct/reading-documentation)
 
 Asking Questions: [click here](https://open.appacademy.io/learn/student-handbook/code-of-conduct/asking-questions)
+
+***
+
+## Always More to Add!
+
+This is a live document and is not meant to comprehensively cover everything you might need as a student at App Academy. Check it periodically for new links and resources added by the TAs!

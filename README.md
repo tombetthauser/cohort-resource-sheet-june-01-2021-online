@@ -22,9 +22,14 @@ Student Introduction Google Sheet: [click here](https://docs.google.com/spreadsh
 
 ***
 
-<!-- Module 1 Resource Links:
+Module 1 Resource Links:
 
-* [Module 1 Resources from Mylo](https://github.com/appacademy/Module-1-Resources) -->
+* [Module 1 Resources from Mylo](https://github.com/appacademy/Module-1-Resources)
+
+
+Module 2 Resource Links:
+
+* [Module 2 Resources from Kristen](https://github.com/chaunceykm/mod2Resources)
 
 ***
 

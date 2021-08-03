@@ -20,7 +20,7 @@ Student Introduction Google Sheet: [click here](https://docs.google.com/spreadsh
 
 (^ newly added / deferred students feel free to add yourself to this!)
 
-***
+<!-- ***
 
 Module 1 Resource Links:
 
@@ -29,7 +29,7 @@ Module 1 Resource Links:
 
 Module 2 Resource Links:
 
-* [Module 2 Resources from Kristen](https://github.com/chaunceykm/mod2Resources)
+* [Module 2 Resources from Kristen](https://github.com/chaunceykm/mod2Resources) -->
 
 ***
 

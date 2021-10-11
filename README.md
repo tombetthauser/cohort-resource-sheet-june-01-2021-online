@@ -33,6 +33,12 @@ Module 2 Resource Links:
 
 ***
 
+### Module 6 Resource Links:
+
+[Supplemental Lecture Recordeings from Leah](https://docs.google.com/spreadsheets/d/1aNpl8zyflJ2Anp-Y4C-HJRE840m2SeUiB09Qy7zVitc/edit#gid=0)
+
+***
+
 ## Cohort Roadmap
 
 ![image](https://docs.google.com/drawings/d/e/2PACX-1vS4Wx0ihqY_VYg4UtvM2fqdugB9zx2_33oRTfGqoRLsKlZQ-46_sB43AjDaS9-Gybjy0mn1LhStlXuY/pub?w=1440&h=1080)

@@ -43,6 +43,10 @@ Module 2 Resource Links:
 
 * [User Story Slides](https://docs.google.com/presentation/d/1gGD-J1IvuUY1QENwYGAKwgCHo3HWbs4wgBPxw8kio_8/edit#slide=id.g7c0ce9784c_0_125)
 
+* [Heroku / Express Deployment (AAO)](https://open.appacademy.io/learn/js-py---jun-2021-cohort-1-online/week-13-jun-2021-cohort-1-online/heroku-and-you)
+
+<!-- * [Heroku / Flask Deployment (AAO)](https://hackmd.io/@jma/fast-flask-deploy) -->
+
 ***
 
 ## Cohort Roadmap

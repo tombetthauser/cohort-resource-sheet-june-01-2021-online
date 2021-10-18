@@ -47,6 +47,8 @@ Module 2 Resource Links:
 
 <!-- * [Heroku / Flask Deployment (AAO)](https://hackmd.io/@jma/fast-flask-deploy) -->
 
+* [Express / React AWS Storage Walkthrough](https://github.com/jdrichardsappacad/aws-s3-pern-demo)
+
 ***
 
 ## Cohort Roadmap

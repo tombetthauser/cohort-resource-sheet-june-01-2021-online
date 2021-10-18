@@ -49,6 +49,8 @@ Module 2 Resource Links:
 
 * [Express / React AWS Storage Walkthrough](https://github.com/jdrichardsappacad/aws-s3-pern-demo)
 
+* [Flask / React AWS Storage Walkthrough](https://hackmd.io/@app-academy/SyaRvp23d)
+
 ***
 
 ## Cohort Roadmap

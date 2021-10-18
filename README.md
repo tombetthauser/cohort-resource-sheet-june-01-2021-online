@@ -35,11 +35,13 @@ Module 2 Resource Links:
 
 ### Capstone / Post-Graduation Resource Links:
 
-* [Supplemental Lecture Recordeings from Leah](https://docs.google.com/spreadsheets/d/1aNpl8zyflJ2Anp-Y4C-HJRE840m2SeUiB09Qy7zVitc/edit#gid=0)
+* [Supplemental Flask / Docker Lecture Recordeings from Mod 6](https://docs.google.com/spreadsheets/d/1aNpl8zyflJ2Anp-Y4C-HJRE840m2SeUiB09Qy7zVitc/edit#gid=0)
 
 * [Flask / React Project Starter](https://github.com/appacademy-starters/python-project-starter)
 
 * [Express / React Project Starter](https://drive.google.com/file/d/16wNaP57ICFULb1F3YeZ4MH80hWrUZO8-/view?usp=sharing)
+
+* [User Story Slides](https://docs.google.com/presentation/d/1gGD-J1IvuUY1QENwYGAKwgCHo3HWbs4wgBPxw8kio_8/edit#slide=id.g7c0ce9784c_0_125)
 
 ***
 

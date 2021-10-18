@@ -33,7 +33,7 @@ Module 2 Resource Links:
 
 ***
 
-### Resource Links:
+### Capstone / Post-Graduation Resource Links:
 
 * [Supplemental Lecture Recordeings from Leah](https://docs.google.com/spreadsheets/d/1aNpl8zyflJ2Anp-Y4C-HJRE840m2SeUiB09Qy7zVitc/edit#gid=0)
 

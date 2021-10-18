@@ -47,9 +47,11 @@ Module 2 Resource Links:
 
 <!-- * [Heroku / Flask Deployment (AAO)](https://hackmd.io/@jma/fast-flask-deploy) -->
 
-* [Express / React AWS Storage Walkthrough](https://github.com/jdrichardsappacad/aws-s3-pern-demo)
+* [Express / React AWS Storage Set Up](https://github.com/jdrichardsappacad/aws-s3-pern-demo)
 
-* [Flask / React AWS Storage Walkthrough](https://hackmd.io/@app-academy/SyaRvp23d)
+* [Flask / React AWS Storage Set Up](https://hackmd.io/@app-academy/SyaRvp23d)
+
+* [Flask / React Websockets Set Up](https://hackmd.io/oTn-ZTjcQRO5Ghbv9tO9ug)
 
 ***
 

@@ -33,9 +33,13 @@ Module 2 Resource Links:
 
 ***
 
-### Module 6 Resource Links:
+### Resource Links:
 
-[Supplemental Lecture Recordeings from Leah](https://docs.google.com/spreadsheets/d/1aNpl8zyflJ2Anp-Y4C-HJRE840m2SeUiB09Qy7zVitc/edit#gid=0)
+* [Supplemental Lecture Recordeings from Leah](https://docs.google.com/spreadsheets/d/1aNpl8zyflJ2Anp-Y4C-HJRE840m2SeUiB09Qy7zVitc/edit#gid=0)
+
+* [Flask / React Project Starter](https://github.com/appacademy-starters/python-project-starter)
+
+* [Express / React Project Starter](https://drive.google.com/file/d/16wNaP57ICFULb1F3YeZ4MH80hWrUZO8-/view?usp=sharing)
 
 ***
 

@@ -53,6 +53,10 @@ Module 2 Resource Links:
 
 * [Flask / React Websockets Set Up](https://hackmd.io/oTn-ZTjcQRO5Ghbv9tO9ug)
 
+* [Using Alembic With Flask (AAO)](https://open.appacademy.io/learn/js-py---jun-2021-cohort-1-online/week-18---flask--sqlalchemy--and-forms/using-alembic-with-flask)
+
+* [Migrations With Alembic (AAO)](https://open.appacademy.io/learn/js-py---jun-2021-cohort-1-online/week-18---flask--sqlalchemy--and-forms/migrations-with-alembic)
+
 ***
 
 ## Cohort Roadmap

@@ -57,6 +57,8 @@ Module 2 Resource Links:
 
 * [Migrations With Alembic (AAO)](https://open.appacademy.io/learn/js-py---jun-2021-cohort-1-online/week-18---flask--sqlalchemy--and-forms/migrations-with-alembic)
 
+* [Flask-SQLAlchemy Declaring Models / Relationships](https://flask-sqlalchemy.palletsprojects.com/en/2.x/models/)
+
 ***
 
 ## Cohort Roadmap

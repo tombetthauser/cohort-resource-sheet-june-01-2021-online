@@ -59,6 +59,8 @@ Module 2 Resource Links:
 
 * [Flask-SQLAlchemy Declaring Models / Relationships](https://flask-sqlalchemy.palletsprojects.com/en/2.x/models/)
 
+* [Building a Flask API (HackMD by Olivia)](https://hackmd.io/3I_Fc9pRQcuUws6j_zHZeQ)
+
 ***
 
 ## Cohort Roadmap

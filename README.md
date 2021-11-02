@@ -33,6 +33,9 @@ Module 2 Resource Links:
 
 ***
 
+### Scorecard Links (student facing copy)
+* [Google Sheet Link](https://docs.google.com/spreadsheets/d/11W3c5aIYLf3MRmmHDLD6ZsZyIrN671fo_qhaR8KtBXM/edit#gid=1998193914)
+
 ### Capstone / Post-Graduation Resource Links:
 
 * [Supplemental Flask / Docker Lecture Recordeings from Mod 6](https://docs.google.com/spreadsheets/d/1aNpl8zyflJ2Anp-Y4C-HJRE840m2SeUiB09Qy7zVitc/edit#gid=0)
